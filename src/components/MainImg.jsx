@@ -7,3 +7,4 @@ function MainImg() {
 }
 
 export default MainImg;
+
